@@ -1,78 +1,127 @@
-4 166 "-"
-      7 182 "-"
-      1 "ApiTool"
-      3 "botnet/2.0"
-      3 "Cisco ASA
-      4 "Cloud mapping
-      1 "curl/7.47.0"
-     16 "curl/7.58.0"
-      1 "curl/7.60.0"
-      2 "curl/7.67.0"
-      3 "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)"
-      5 "fasthttp"
-      1 "git/2.2"
-     40 "Go-http-client/1.1"
-     66 "Googlebot-Image/1.0"
-      8 "-" "Hello,
-      9 "Hello, world"
-      8 "Hello, World"
-      1 "h-hewwo? is
-     12 ./hoho.arm7 linear%60
-     30 "HTTP Banner
-      2 "HTTPie/0.9.8"
-      7 "Java/1.8.0_131"
-      1 "Java/1.8.0_242"
-      4 "kubectl/v1.12.0 (linux/amd64)
-      5 "libwww-perl/5.833"
-     16 "libwww-perl/6.43"
-    120 "masscan/1.0 (https://github.com/robertdavidgraham/masscan)"
-      1 "Mozilla/3.0 (compatible;
-   1261 "Mozilla/4.0 (compatible;
-     27 "Mozilla/5.0"
-      1 "Mozilla/5.01678543 Mozilla/5.0
-      1 "Mozilla/5.01688858 Mozilla/5.0
-      1 "Mozilla/5.01732016 Mozilla/5.0
-     49 "Mozilla/5.0 AppleWebKit/537.36
-      1 "Mozilla/5.0 (compatible,
-    205 "Mozilla/5.0 (compatible;
-      1 "Mozilla/5.0 Gecko/20100101"
-      5 "Mozilla/5.0 (iPad;
-    193 "Mozilla/5.0 (iPhone;
-     93 "Mozilla/5.0 (Linux;
-      1 "Mozilla/5.0(Linux;Android 5.1.1;OPPO
-    166 "Mozilla/5.0 (Macintosh;
-      1 "Mozilla/5.0 (Unknown;
-   7593 "Mozilla/5.0 (Windows
-    114 "Mozilla/5.0 (Windows;
-   1962 "Mozilla/5.0 (X11;
-    482 "Mozilla/5.0 zgrab/0.x"
-     54 "Mozilla/7.0 (compatible;
-      8 "msnbot/2.0b (+http://search.msn.com/msnbot.htm)"
-      1 "Netlab360"
-     20 "NetSystemsResearch studies
-      1 NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT
-      1 "ntopng 4.1.200324
-      9 "Pandalytics/1.0 (https://domainsbot.com/pandalytics/)"
-     37 "polaris botnet"
-      1 "python-requests/1.2.3 CPython/2.7.16
-     10 "python-requests/2.10.0"
-      1 "python-requests/2.13.0"
-      2 "python-requests/2.19.1"
-     15 "python-requests/2.22.0"
-      9 "python-requests/2.23.0"
-      6 "python-requests/2.6.0 CPython/2.7.5
-      2 "SRA/SMA version
-      1 "test/1.0"
-      8 union select
-      8 "User-Agent:Mozilla/4.0 (compatible;
-      4 "Welcome"
-      8 "Wget/1.19.4 (linux-gnu)"
-      2 "WhatsApp/2.19.352 A"
-      1 "WinHTTP/1.1"
-      1 Wire Encryption
-      7 "\x22Mozilla/5.0"
-      3 "Xenu Link
-     50 "XTC"
-     24 "XTC BOTNET"
-      3 "YahooBot/1.0"
-     64 "ZmEu"
+"-"
+166 "-" "-"
+182 "-" "-"
+"ApiTool"
+"botnet/2.0"
+"Cisco ASA version fingerprinting tool
+"Cloud mapping experiment. Contact research@pdrlabs.net"
+"curl/7.47.0"
+"curl/7.58.0"
+"curl/7.60.0"
+"curl/7.67.0"
+"facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)"
+"fasthttp"
+"git/2.2"
+"Go-http-client/1.1"
+"Googlebot-Image/1.0"
+"-" "Hello, world"
+"Hello, world"
+"Hello, World"
+"h-hewwo? is anyone thewe? :c"
+./hoho.arm7 linear%60 HTTP/1.1" 400 182
+"HTTP Banner Detection (https://security.ipip.net)"
+"HTTPie/0.9.8"
+"Java/1.8.0_131"
+"Java/1.8.0_242"
+"kubectl/v1.12.0 (linux/amd64) kubernetes/0ed3388"
+"libwww-perl/5.833"
+"libwww-perl/6.43"
+"masscan/1.0 (https://github.com/robertdavidgraham/masscan)"
+"Mozilla/3.0 (compatible; Indy Library)"
+"Mozilla/4.0 (compatible; MSIE 5.01; Windows
+"Mozilla/4.0 (compatible; MSIE 6.0; Windows
+"Mozilla/4.0 (compatible; MSIE 7.0; Windows
+"Mozilla/4.0 (compatible; MSIE 8.0; Windows
+"Mozilla/4.0 (compatible; MSIE 9.0; Windows
+"Mozilla/5.0"
+"Mozilla/5.01678543 Mozilla/5.0 (Windows NT 6.1;
+"Mozilla/5.01688858 Mozilla/5.0 (Windows NT 6.1;
+"Mozilla/5.01732016 Mozilla/5.0 (Windows NT 6.1;
+"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko;
+"Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)"
+"Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+"Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)"
+"Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+"Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)"
+"Mozilla/5.0 (compatible, MSIE 10.0, Windows
+"Mozilla/5.0 (compatible; MSIE 10.0; Windows
+"Mozilla/5.0 (compatible; MSIE 9.0; Windows
+"Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)"
+"Mozilla/5.0 (compatible; SeznamBot/3.2; +http://napoveda.seznam.cz/en/seznambot-intro/)"
+"Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"
+"Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) AppleWebKit/537.36
+"Mozilla/5.0 Gecko/20100101"
+"Mozilla/5.0 (iPad; CPU OS 6_0
+"Mozilla/5.0 (iPhone; CPU iPhone OS
+"Mozilla/5.0 (Linux; Android 10; SM-N960F)
+"Mozilla/5.0 (Linux; Android 10; SM-N975U)
+"Mozilla/5.0(Linux;Android 5.1.1;OPPO A33 Build/LMY47V;wv) AppleWebKit/537.36(KHTML,link
+"Mozilla/5.0 (Linux; Android 6.0.1; Nexus
+"Mozilla/5.0 (Linux; Android 7.0; SM-G930V
+"Mozilla/5.0 (Linux; Android 9; LYA-L29)
+"Mozilla/5.0 (Linux; Android 9; Pixel
+"Mozilla/5.0 (Macintosh; Intel Mac OS
+"Mozilla/5.0 (Macintosh; U; Intel Mac
+"Mozilla/5.0 (Macintosh; U; PPC Mac
+"Mozilla/5.0 (Unknown; U; UNIX BSD/SYSV
+"Mozilla/5.0 (Windows NT 10.0; Win64;
+"Mozilla/5.0 (Windows NT 10.0; WOW64)
+"Mozilla/5.0 (Windows NT 10) AppleWebKit/537.36
+"Mozilla/5.0 (Windows NT 4.0; WOW64)
+"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36
+"Mozilla/5.0 (Windows NT 5.1; rv:9.0.1)
+"Mozilla/5.0 (Windows NT 5.2) AppleWebKit/537.36
+"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36
+"Mozilla/5.0 (Windows NT 6.1; rv:60.0)
+"Mozilla/5.0 (Windows NT 6.1; Win64;
+"Mozilla/5.0 (Windows NT 6.1; WOW64;
+"Mozilla/5.0 (Windows NT 6.1; WOW64)
+"Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36
+"Mozilla/5.0 (Windows NT 6.2;en-US) AppleWebKit/537.32.36
+"Mozilla/5.0 (Windows NT 6.2; Win64;
+"Mozilla/5.0 (Windows NT 6.2; WOW64)
+"Mozilla/5.0 (Windows NT 6.3; Win64;
+"Mozilla/5.0 (Windows NT 6.3; WOW64)
+"Mozilla/5.0 (Windows; U; Windows NT
+"Mozilla/5.0 (X11; CrOS x86_64 8172.45.0)
+"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36
+"Mozilla/5.0 (X11; Linux x86_64; rv:28.0)
+"Mozilla/5.0 (X11; Linux x86_64; rv:45.0)
+"Mozilla/5.0 (X11; Linux x86_64; rv:52.0)
+"Mozilla/5.0 (X11; Linux x86_64; rv:73.0)
+"Mozilla/5.0 (X11; Ubuntu; Linux x86_64;
+"Mozilla/5.0 (X11; U; Linux i686;
+"Mozilla/5.0 (X11; U; SunOS sun4u;
+"Mozilla/5.0 zgrab/0.x"
+"Mozilla/7.0 (compatible; MSIE 8.0; Windows
+"msnbot/2.0b (+http://search.msn.com/msnbot.htm)"
+"Netlab360"
+"NetSystemsResearch studies the availability of
+NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM
+"ntopng 4.1.200324 [x86_64][Ubuntu 18.04.4 LTS]"
+"Pandalytics/1.0 (https://domainsbot.com/pandalytics/)"
+"polaris botnet"
+"python-requests/1.2.3 CPython/2.7.16 Linux/4.14.165-102.185.amzn1.x86_64"
+"python-requests/2.10.0"
+"python-requests/2.13.0"
+"python-requests/2.19.1"
+"python-requests/2.22.0"
+"python-requests/2.23.0"
+"python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-1062.12.1.el7.x86_64"
+"SRA/SMA version fingerprinting tool"
+"test/1.0"
+union select 1,0x272F2A,3,4,5,6,7,8,0x7b247b24524345275d3b6469652f2a2a2f286d6435284449524543544f52595f534550415241544f5229293b2f2f7d7d,0--\x22;s:4:\x22name\x22;s:3:\x22ads\x22;}554fcae493e564ee0dc75bdf2ebf94ca" "Mozilla/5.0 (compatible;
+union select 1,0x272F2A,3,4,5,6,7,8,0x7b247b24524345275d3b6469652f2a2a2f286d6435284449524543544f52595f534550415241544f5229293b2f2f7d7d,0--\x22;s:4:\x22name\x22;s:3:\x22ads\x22;}554fcae493e564ee0dc75bdf2ebf94ca" "Mozilla/5.0 (Windows
+union select 1,0x272F2A,3,4,5,6,7,8,0x7b247b24524345275d3b6469652f2a2a2f286d6435284449524543544f52595f534550415241544f5229293b2f2f7d7d,0--\x22;s:4:\x22name\x22;s:3:\x22ads\x22;}554fcae493e564ee0dc75bdf2ebf94ca" "Mozilla/5.0 (X11;
+"User-Agent:Mozilla/4.0 (compatible; MSIE 6.0; Windows
+"Welcome"
+"Wget/1.19.4 (linux-gnu)"
+"WhatsApp/2.19.352 A"
+"WinHTTP/1.1"
+Wire Encryption version 1\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00" 400
+"\x22Mozilla/5.0"
+"Xenu Link Sleuth/1.3.8"
+"XTC"
+"XTC BOTNET"
+"YahooBot/1.0"
+"ZmEu"
