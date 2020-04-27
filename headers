@@ -1,0 +1,78 @@
+4 166 "-"
+      7 182 "-"
+      1 "ApiTool"
+      3 "botnet/2.0"
+      3 "Cisco ASA
+      4 "Cloud mapping
+      1 "curl/7.47.0"
+     16 "curl/7.58.0"
+      1 "curl/7.60.0"
+      2 "curl/7.67.0"
+      3 "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)"
+      5 "fasthttp"
+      1 "git/2.2"
+     40 "Go-http-client/1.1"
+     66 "Googlebot-Image/1.0"
+      8 "-" "Hello,
+      9 "Hello, world"
+      8 "Hello, World"
+      1 "h-hewwo? is
+     12 ./hoho.arm7 linear%60
+     30 "HTTP Banner
+      2 "HTTPie/0.9.8"
+      7 "Java/1.8.0_131"
+      1 "Java/1.8.0_242"
+      4 "kubectl/v1.12.0 (linux/amd64)
+      5 "libwww-perl/5.833"
+     16 "libwww-perl/6.43"
+    120 "masscan/1.0 (https://github.com/robertdavidgraham/masscan)"
+      1 "Mozilla/3.0 (compatible;
+   1261 "Mozilla/4.0 (compatible;
+     27 "Mozilla/5.0"
+      1 "Mozilla/5.01678543 Mozilla/5.0
+      1 "Mozilla/5.01688858 Mozilla/5.0
+      1 "Mozilla/5.01732016 Mozilla/5.0
+     49 "Mozilla/5.0 AppleWebKit/537.36
+      1 "Mozilla/5.0 (compatible,
+    205 "Mozilla/5.0 (compatible;
+      1 "Mozilla/5.0 Gecko/20100101"
+      5 "Mozilla/5.0 (iPad;
+    193 "Mozilla/5.0 (iPhone;
+     93 "Mozilla/5.0 (Linux;
+      1 "Mozilla/5.0(Linux;Android 5.1.1;OPPO
+    166 "Mozilla/5.0 (Macintosh;
+      1 "Mozilla/5.0 (Unknown;
+   7593 "Mozilla/5.0 (Windows
+    114 "Mozilla/5.0 (Windows;
+   1962 "Mozilla/5.0 (X11;
+    482 "Mozilla/5.0 zgrab/0.x"
+     54 "Mozilla/7.0 (compatible;
+      8 "msnbot/2.0b (+http://search.msn.com/msnbot.htm)"
+      1 "Netlab360"
+     20 "NetSystemsResearch studies
+      1 NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT
+      1 "ntopng 4.1.200324
+      9 "Pandalytics/1.0 (https://domainsbot.com/pandalytics/)"
+     37 "polaris botnet"
+      1 "python-requests/1.2.3 CPython/2.7.16
+     10 "python-requests/2.10.0"
+      1 "python-requests/2.13.0"
+      2 "python-requests/2.19.1"
+     15 "python-requests/2.22.0"
+      9 "python-requests/2.23.0"
+      6 "python-requests/2.6.0 CPython/2.7.5
+      2 "SRA/SMA version
+      1 "test/1.0"
+      8 union select
+      8 "User-Agent:Mozilla/4.0 (compatible;
+      4 "Welcome"
+      8 "Wget/1.19.4 (linux-gnu)"
+      2 "WhatsApp/2.19.352 A"
+      1 "WinHTTP/1.1"
+      1 Wire Encryption
+      7 "\x22Mozilla/5.0"
+      3 "Xenu Link
+     50 "XTC"
+     24 "XTC BOTNET"
+      3 "YahooBot/1.0"
+     64 "ZmEu"
